@@ -15,5 +15,6 @@ Pristromskaya Veronika
 Development of a website for a psychologist at the university: https://veronikapr777@dev.azure.com/veronikapr777/PsychoSite/_git/PsychoSite
 Development of a website for adding and passing courses: https://veronikapr777@dev.azure.com/veronikapr777/EVMProject/_git/EVMProject
 
-#### Courses: .NET Development
+#### Courses: 
+.NET Development (Epam)
 #### English level: B1
