@@ -17,4 +17,6 @@ Development of a website for adding and passing courses: https://veronikapr777@d
 
 #### Courses: 
 .NET Development (Epam)
-#### English level: B1
+
+#### English level: 
+B1 (Intermediate)
